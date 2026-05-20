@@ -1,0 +1,6 @@
+{
+  "name": "Nirwana Dashboard",
+  "description": "Dashboard Neumorphism interaktif yang terintegrasi dengan kutipan harian bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
